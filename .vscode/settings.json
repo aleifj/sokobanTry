@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SokobanTry.sln"
+    "dotnet.defaultSolution": "sokobanTry.sln"
 }
